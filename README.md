@@ -1,6 +1,6 @@
 # ClearSystem TCL
 
-**Uma tela inicial escura, simples e personalizada para Android TV.**
+**Launcher de código aberto para TCL Android TV, baseado no Free My TV, com tema escuro, barra de apps e atalhos para HDMI, TV aberta e ajustes.**
 
 Personalização do [Free My TV](https://github.com/simbasjungles/free-my-tv), com visual inspirado nas barras de aplicativos de TVs, fundo noturno azul-petróleo e um painel que reúne entradas e ajustes da TV.
 
@@ -10,10 +10,10 @@ Desenvolvido a partir da experiência com uma **TCL 50P8M, Android TV 9**, mante
 
 | Arquivo | Para que serve |
 | --- | --- |
-| **[Baixar atualização v3 para Windows](https://github.com/R4f4e1-cyber/VibeCoding_apk_clearsystem_TCL/raw/refs/heads/downloads/FreeMyTV-Atualizacao-v3.zip)** | Pacote com APK, ADB oficial e instalador automático. |
-| [Código-fonte da personalização v3](https://github.com/R4f4e1-cyber/VibeCoding_apk_clearsystem_TCL/raw/refs/heads/downloads/FreeMyTV-ClearSystem-v3-source.zip) | Código Android, arte de fundo, scripts e arquivos do projeto-base para inspeção e compilação. Não inclui chaves privadas. |
+| **[Baixar atualização v3 para Windows](https://github.com/BELINI-044/VibeCoding_apk_clearsystem_TCL/raw/refs/heads/downloads/FreeMyTV-Atualizacao-v3.zip)** | Pacote com APK, ADB oficial e instalador automático. |
+| [Código-fonte da personalização v3](https://github.com/BELINI-044/VibeCoding_apk_clearsystem_TCL/raw/refs/heads/downloads/FreeMyTV-ClearSystem-v3-source.zip) | Código Android, arte de fundo, scripts e arquivos do projeto-base para inspeção e compilação. Não inclui chaves privadas. |
 
-Os pacotes ficam na branch [`downloads`](https://github.com/R4f4e1-cyber/VibeCoding_apk_clearsystem_TCL/tree/downloads). Se o navegador abrir a página do arquivo, use **Download raw file**, o botão com a seta para baixo. Os arquivos antigos dessa branch são históricos; as instruções abaixo usam a **v3**.
+Os pacotes ficam na branch [`downloads`](https://github.com/BELINI-044/VibeCoding_apk_clearsystem_TCL/tree/downloads). Se o navegador abrir a página do arquivo, use **Download raw file**, o botão com a seta para baixo. Os arquivos antigos dessa branch são históricos; as instruções abaixo usam a **v3**.
 
 ## O que a v3 oferece
 
